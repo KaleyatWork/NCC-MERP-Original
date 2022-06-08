@@ -3,7 +3,7 @@
 Full license as per license.pdf Please review.
 Simply - this software can help you write good notes; it won't do your work for you.
 
-## License 2/29/2022 EULA LICENSE Copyright 2022
+## License 5/29/2022 EULA LICENSE Copyright 2022
 
 ## Veterans Administration modification of MIT License
 
